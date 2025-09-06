@@ -1,4 +1,4 @@
-Please consider the belowfactors while contributing
+Please consider the below factors while contributing
 
 Code style:
 Maintain a consistent code style for readability.
